@@ -85,5 +85,5 @@ Feel free to reach out via [email](mailto:ayushpadhy1309@gmail.com) or connect o
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&width=435&lines=Welcome+to+my+GitHub+space!;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&width=600&lines=Welcome+to+my+GitHub+space!;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
