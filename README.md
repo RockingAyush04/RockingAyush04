@@ -49,7 +49,7 @@ Internship management app for onboarding and daily operations.
 ### 🏕️ Camp India
 > NodeJS + Express + MongoDB  
 Discover and review camping grounds, with advanced search and filtering.  
-[Repo](https://github.com/RockingAyush04/Camp-India)
+[Repo](https://github.com/RockingAyush04/CampIndia)
 
 ### 🎗️ PinkPredict
 > Python  
