@@ -8,10 +8,10 @@
 </p>
 <p align="center">
   <a href="mailto:ayushpadhy1309@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ayush-padhy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ayushpadhy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/RockingAyush04"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/RockingAyush04"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
-  <a href="https://ayushpadhy.me"><img src="https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square"></a>
+  <a href="https://leetcode.com/u/ayushpadhy1309/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.ayushpadhy.tech"><img src="https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square"></a>
 </p>
 
 ---
@@ -20,15 +20,15 @@
 
 - **B.Tech. in Computer Science & Engineering**  
   Vellore Institute of Technology, Vellore  
-  CGPA: **9.41/10.0**  
-  _2022–Present_
+  CGPA: **9.40/10.0**  
+  _2022–2026_
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,express,mongodb,postgres,mysql,aws,github,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,express,mongodb,postgres,mysql,aws,github,tailwind,git,spring" />
 </div>
 
 
@@ -44,7 +44,7 @@ Efficient flight booking platform inspired by MakeMyTrip.
 ### 💼 SupIntern
 > ReactJS + NodeJS + PostgreSQL  
 Internship management app for onboarding and daily operations.  
-[Repo](https://github.com/RockingAyush04/SupIntern) | [Live Demo](#)
+[Repo](https://github.com/RockingAyush04/SupIntern) | [Live Demo](https://supintern.vercel.app)
 
 ### 🏕️ Camp India
 > NodeJS + Express + MongoDB  
@@ -70,7 +70,7 @@ ML web app for breast cancer diagnosis (95%+ accuracy).
 ## 💬 Connect with Me
 
 I'm always open to collaboration, new ideas, and tech discussions!  
-Feel free to reach out via [email](mailto:ayushpadhy1309@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ayush-padhy).
+Feel free to reach out via [email](mailto:ayushpadhy1309@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ayushpadhy).
 
 ---
 
